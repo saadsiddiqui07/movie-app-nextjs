@@ -25,6 +25,7 @@ const Header = () => {
         src="https://media.comicbook.com/2019/11/hulu-logo-1197973-1280x0.jpeg"
         height={100}
         width={200}
+        alt="Logo"
       />
     </header>
   );
